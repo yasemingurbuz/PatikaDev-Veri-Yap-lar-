@@ -53,3 +53,8 @@
    - 6.Adım [8,11,12,16,21,22]
 
    2. Big-o gösterimi => O(nlogn) 
+   
+   # Binary Search Tree Projesi
+   [17,5,1,8,3,6,0,9,4,2] dizisinin Binary-Search Tree aşamalrını yazınız.
+
+![](https://github.com/yasemingurbuz/PatikaDev-Veri-Yap-lar-/blob/main/binarysearch.png)
